@@ -9,7 +9,11 @@ public class NailJava {
 
         name = name.replace("Mustafa", "Mustakaev");
 
-        System.out.println(name);
+        char ok = 9989;
+
+        System.out.println(name + ok);
+
+
 
 
     }
